@@ -1,4 +1,4 @@
 Project create command
 D:\nextjsapp>npx create-next-app my-blog
 Run Project
-D:\nextjsapp\my-blog>npm runn
+D:\nextjsapp\my-blog>npm run dev
